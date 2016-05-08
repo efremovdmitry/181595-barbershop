@@ -1,0 +1,186 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
+}
+
+.navigation a {
+  font-size: 16px;
+  line-height: 20px;
+  color: #eeeeee;
+}
+
+.login {
+  font-size: 16px;
+  line-height: 20px;
+  color: #eeeeee;
+}
+
+/*catalog-item.html*/
+.product-name {
+  font-size: 30px;
+  line-height: 42px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.bread-crumbs {
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.bread-crumbs .active {
+  font-size: 14px;
+  line-height: 24px;
+  color: #aba9a7;
+}
+
+.status {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.article {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #aeaeae;
+}
+
+.description-paragraph {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.buy-price {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.buy-btn {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.description-title {
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.description-list {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+/*catalog.html*/
+.main-title {
+  font-size: 30px;
+  line-height:42px;
+  color: #000000;
+}
+
+.sidebar-heading {
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.sidebar label {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.btn-view {
+  font-size: 13px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.item-heading {
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+}
+
+.item-heading .brands {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.item-buy-price {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.item-buy-btn {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pagination {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pagination .active {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.footer-contacts {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.footer-social p {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.footer-copyright {
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
